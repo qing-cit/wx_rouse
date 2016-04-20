@@ -1,0 +1,45 @@
+{
+    "button": [
+        {
+            "name": "体验·生活", 
+            "sub_button": [
+                {
+                    "type": "view", 
+                    "name": "新品展示", 
+                    "url": "http://wx.rouse.0574jc.com/products"
+                }, 
+                {
+                    "type": "view", 
+                    "name": "店铺列表", 
+                    "url": "http://wx.rouse.0574jc.com/stores"
+                }, 
+                {
+                    "type": "click", 
+                    "name": "联系我们", 
+                    "key": "contact_us", 
+                    "sub_button": [ ]
+                }
+            ]
+        }, 
+        {
+            "type": "click", 
+            "name": "精彩活动", 
+            "key": "campaign"
+        }, 
+        {
+            "name": "会员尊享", 
+            "sub_button": [
+                {
+                    "type": "view", 
+                    "name": "我的会员卡", 
+                    "url": "http://wx.rouse.0574jc.com/profile/"
+                }, 
+                {
+                    "type": "view", 
+                    "name": "我的优惠券", 
+                    "url": "http://wx.rouse.0574jc.com/wp-login.php"
+                }
+            ]
+        }
+    ]
+}
