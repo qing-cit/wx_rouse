@@ -1,0 +1,45 @@
+== CHANGE LOG ==
+= 1.1.2 =
+	- Fix - CSS bug fixed
+	-Update - Custom JS updated
+
+= 1.1.1 =
+	- Fix - Conflict with Child theme issue fixed
+
+= 1.1 =
+	- Update - CSS Updated
+
+= 1.0.7 =
+	- Fix - prefixed with theme name for class Customize_Freesia_Empire_upgrade
+	- Fix - Disable Buttom Social Icons issue fixed
+
+= 1.0.6 =
+	- Fix Changelog fixed
+
+= 1.0.5 =
+	- Fix - Minor text fixed
+		  - Template issue fixed
+		  - Undefined Index fixed
+	- Update - pot file updated
+			 - CSS Updated
+			 - JS Updated
+	- New - Blog Title Show Hide Option added
+
+= 1.0.3 =
+	- Fix - Slider Issue fixed
+		  - Blog animation issue fixed
+		  - Blog Title issue fixed
+		  - Sitcky scroll js issue fixed
+		  - Feature Subtitle animation issue fixed
+	- Update - style.css Updated
+			 - responsive.css Updated
+
+= 1.0.2 =
+	- Fix - Animation issue fixed and WOW settings seperated
+
+= 1.0.1 =
+	- Fix - Major fix on all files
+	- Update - Major Update on all files.
+
+= 1.0 =
+	- Initial Release

@@ -1,0 +1,10 @@
+<wpml-config>
+	<admin-texts>
+		<key name="freesiaempire_theme_options">
+			<key name="freesiaempire_features_title" />
+			<key name="freesiaempire_features_description" />
+			<key name="freesiaempire_search_text" />
+			<key name="freesiaempire_tag_text" />
+		</key>
+	</admin-texts>
+</wpml-config>

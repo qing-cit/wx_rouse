@@ -1,0 +1,47 @@
+/*
+Theme Name: AppStack
+
+Adding support for language written in a Right To Left (RTL) direction is easy -
+it's just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+http://codex.wordpress.org/Right_to_Left_Language_Support
+
+*/
+
+
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+}
+.header-banner-top .horizontal-nav ul.sub-menu,
+.header-banner-top .horizontal-nav .menu-item-has-children ul,
+section.testimonial .inner,
+
+ {
+	text-align:right;
+}
+
+.text-holder {
+	right:8%;
+}
+.logo {
+	float:right;
+	padding:right:10%;
+}
+span.login {
+    float: left;
+    padding-left: 10%;
+}
+@media only screen and (min-width: 1170px) {
+  .stack-product-intro,
+  .stack-single-point .stack-more-info  {
+	  text-align:right;
+  }	
+}
+
+@media (min-width: 718px) {
+.site-footer {
+    text-align: right;
+  }
+}
